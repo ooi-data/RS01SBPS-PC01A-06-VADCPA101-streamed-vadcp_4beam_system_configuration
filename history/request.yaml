@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SBPS-PC01A-06-VADCPA101-streamed-vadcp_4beam_system_configuration
-last_request: '2022-01-21T17:54:02.255335Z'
+last_request: '2022-02-07T19:10:57.214090Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-06-VADCPA101-streamed-vadcp_4beam_system_configuration/main/history/response.json
 status: discontinued
